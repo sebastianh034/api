@@ -1,4 +1,5 @@
 const SONGS = "https://binaryjazz.us/wp-json/genrenator/v1/genre/"
+const TEXT = document.getElementsByClassName("")
 
 async function getSongGenre() {
     try{
