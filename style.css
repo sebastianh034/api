@@ -22,7 +22,7 @@ button{
 p{
     padding: 2rem;
     font-size: 24px;
-    color: white;
+    color: rgb(0, 0, 0);
     border-radius: 5px;
     border-style: none;
     background: #2986ab;
