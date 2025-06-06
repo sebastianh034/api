@@ -1,12 +1,20 @@
 body{
     color: white;
-    font-family: "Comic Sans MS";
 }
 
-.genre-button{
-    justify-self: center;
-    font-size: xx-large;
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
     padding: 2rem;
-    background-color: mediumorchid;
-    border-radius: 6px;
+    font-size: 24px;
+    color: white;
+    border-radius: 5px;
+    border-style: none;
+    background: #2986ab;
+    background: linear-gradient(90deg,rgba(41, 134, 171, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
 }
