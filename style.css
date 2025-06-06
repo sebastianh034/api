@@ -1,0 +1,12 @@
+body{
+    color: white;
+    font-family: "Comic Sans MS";
+}
+
+.genre-button{
+    justify-self: center;
+    font-size: xx-large;
+    padding: 2rem;
+    background-color: mediumorchid;
+    border-radius: 6px;
+}
